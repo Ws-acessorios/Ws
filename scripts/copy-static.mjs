@@ -13,7 +13,7 @@ for (const entry of entries) {
 
   if (entry.isDirectory() && ["assets"].includes(entry.name)) {
     await cp(source, destination, { recursive: true, force: true });
-  } else if (entry.isFile() && (entry.name.endsWith(".html") || entry.name.endsWith(".css") || entry.name === "catalogo.json")) {
+  } else if (entry.isFile() && (entry.name.endsWith(".html") || entry.name.endsWith(".css") || entry.name === "catalogo.json" || entry.name === "sitemap.xml" || entry.name === "robots.txt")) {
     await cp(source, destination, { force: true });
   }
 }

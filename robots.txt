@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /gestao
+Disallow: /gestao.html
+Sitemap: https://ws-acessorios.github.io/Ws/sitemap.xml
