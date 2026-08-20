@@ -29,4 +29,4 @@
 - [x] Alterar o nome visível do site para WS Acessórios
 - [x] Configurar um endereço público mais curto para o GitHub Pages
 - [x] Direccionar a gestão para o repositório GitHub `Ws-acessorios/Ws`
-- [ ] Validar o novo endereço público do GitHub Pages e o acesso à gestão
+- [x] Validar o novo endereço público do GitHub Pages e o acesso à gestão
