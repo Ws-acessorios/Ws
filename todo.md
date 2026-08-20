@@ -1,0 +1,30 @@
+# Project TODO
+
+- [x] Catálogo publicado em `catalogo.json`
+- [x] Área de gestão compacta em `/gestao`
+- [x] Edição manual segura através do GitHub sem token no site público
+- [x] Editor de produtos com adição, edição e remoção
+- [x] Editor de colecções com adição e remoção
+- [x] Selecção, compressão e publicação de imagens em `assets/catalogo/`
+- [x] Publicação do catálogo pela GitHub Contents API a partir da gestão
+- [x] Validar publicação real com um token GitHub fornecido pelo utilizador
+- [x] Corrigir o transbordo horizontal dos campos da gestão em telemóveis
+- [x] Corrigir o botão Editar dos produtos na gestão
+- [x] Invalidar a versão em cache do JavaScript da gestão após a correcção de edição
+- [x] Corrigir o envio de imagens da gestão para o repositório e o GitHub Pages
+- [x] Adicionar botão individual para apagar cada produto e a respectiva imagem
+- [x] Remover uma entrada duplicada de Pulseira Feminina rosa sem apagar a imagem partilhada
+- [x] Garantir que a alteração de catálogo chega ao site público após publicação
+- [x] Mostrar nas páginas públicas os produtos reais criados, editados ou removidos pela gestão
+- [x] Corrigir a execução do script público de catálogo e carrinho como módulo JavaScript
+- [x] Preservar todas as peças originais no catálogo sem substituição automática
+- [x] Distinguir produtos originais de produtos criados pela gestão
+- [x] Garantir que a gestão apenas acrescenta, edita ou remove o item seleccionado pelo administrador
+- [x] Validar que todas as colecções públicas mantêm os produtos originais e apresentam os novos
+- [x] Adicionar uma validação automática que bloqueie publicações que percam produtos originais
+- [x] Impedir a publicação de novos produtos sem imagem e evitar cartões de imagem partida
+- [x] Actualizar a versão do script em todas as colecções públicas para evitar cache antiga
+- [x] Restaurar as páginas de colecções e impedir que desapareçam após actualizações da gestão
+- [x] Renovar a versão do JavaScript público para impedir a execução da cache antiga
+- [x] Alterar o nome visível do site para WS Acessórios
+- [ ] Configurar um endereço público mais curto para o GitHub Pages
