@@ -39,3 +39,6 @@
 - [x] Publicar o sitemap e o robots.txt no GitHub Pages
 - [ ] Confirmar a propriedade no Google Search Console
 - [ ] Submeter o sitemap e solicitar a indexação da página inicial no Google Search Console
+- [ ] Verificar que o GitHub Pages serve o site e as alterações publicadas publicamente
+- [ ] Reforçar a invalidação de cache dos scripts e estilos entre navegadores
+- [ ] Testar a página pública em desktop e móvel

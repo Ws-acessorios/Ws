@@ -27,7 +27,8 @@ try {
   // O compilador pode emitir directamente para dist conforme o rootDir configurado.
 }
 
-const scriptVersion = "catalog-safe-6";
+const scriptVersion = "catalog-safe-7";
+const styleVersion = "styles-safe-2";
 const publishedEntries = await readdir(dist, { withFileTypes: true });
 for (const entry of publishedEntries) {
   if (!entry.isFile() || !entry.name.endsWith(".html")) continue;
@@ -35,6 +36,7 @@ for (const entry of publishedEntries) {
   const page = await readFile(pagePath, "utf8");
   const updatedPage = page
     .replace(/script\.js\?v=[^"]+/g, `script.js?v=${scriptVersion}`)
+    .replace(/styles\.css(?:\?v=[^"]+)?/g, `styles.css?v=${styleVersion}`)
     .replaceAll("WS Wattson Acessórios", "WS Acessórios")
     .replaceAll("WS Wattson", "WS Acessórios");
   if (updatedPage !== page) await writeFile(pagePath, updatedPage, "utf8");
