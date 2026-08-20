@@ -27,4 +27,6 @@
 - [x] Restaurar as páginas de colecções e impedir que desapareçam após actualizações da gestão
 - [x] Renovar a versão do JavaScript público para impedir a execução da cache antiga
 - [x] Alterar o nome visível do site para WS Acessórios
-- [ ] Configurar um endereço público mais curto para o GitHub Pages
+- [x] Configurar um endereço público mais curto para o GitHub Pages
+- [ ] Direccionar a gestão para o repositório GitHub `Ws-acessorios/Ws`
+- [ ] Validar o novo endereço público do GitHub Pages e o acesso à gestão

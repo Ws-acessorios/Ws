@@ -26,7 +26,7 @@ interface Catalog {
 
 type GitHubContent = { sha?: string; content?: string; encoding?: string };
 
-const REPOSITORY = "abelcosta031996-ship-it/Ws-acess-rios";
+const REPOSITORY = "Ws-acessorios/Ws";
 const BRANCH = "main";
 const CATALOG_URL = "catalogo.json";
 const EDIT_URL = `https://github.com/${REPOSITORY}/edit/${BRANCH}/catalogo.json`;
