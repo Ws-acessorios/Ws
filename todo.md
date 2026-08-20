@@ -34,4 +34,4 @@
 - [x] Adicionar encerramento de sessão, mensagens acessíveis e documentação de permissões mínimas
 - [x] Criar um workspace seguro para listar, abrir, editar e publicar ficheiros permitidos
 - [x] Adicionar importação, exportação e geração revista de `catalogo.json`
-- [ ] Validar conflitos de SHA, caminhos bloqueados e comportamento móvel da Gestão
+- [x] Validar conflitos de SHA, caminhos bloqueados e comportamento móvel da Gestão
