@@ -35,3 +35,5 @@
 - [x] Criar um workspace seguro para listar, abrir, editar e publicar ficheiros permitidos
 - [x] Adicionar importação, exportação e geração revista de `catalogo.json`
 - [x] Validar conflitos de SHA, caminhos bloqueados e comportamento móvel da Gestão
+- [ ] Publicar o ficheiro de verificação do Google Search Console e confirmar a propriedade
+- [ ] Confirmar sitemap e solicitar indexação da página inicial
