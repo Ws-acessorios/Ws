@@ -30,3 +30,8 @@
 - [x] Configurar um endereço público mais curto para o GitHub Pages
 - [x] Direccionar a gestão para o repositório GitHub `Ws-acessorios/Ws`
 - [x] Validar o novo endereço público do GitHub Pages e o acesso à gestão
+- [x] Reforçar a autenticação GitHub em memória com diagnóstico de acesso e branch
+- [x] Adicionar encerramento de sessão, mensagens acessíveis e documentação de permissões mínimas
+- [x] Criar um workspace seguro para listar, abrir, editar e publicar ficheiros permitidos
+- [x] Adicionar importação, exportação e geração revista de `catalogo.json`
+- [ ] Validar conflitos de SHA, caminhos bloqueados e comportamento móvel da Gestão

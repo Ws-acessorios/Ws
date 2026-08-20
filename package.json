@@ -6,7 +6,7 @@
   "scripts": {
     "build": "tsc -p tsconfig.build.json && node scripts/copy-static.mjs",
     "typecheck": "tsc --noEmit",
-    "test": "node scripts/verify-catalog.mjs"
+    "test": "node scripts/verify-catalog.mjs && node scripts/verify-admin-security.mjs"
   },
   "devDependencies": {
     "typescript": "^5.6.3"
