@@ -1,6 +1,6 @@
 {
-  "version": 16,
-  "updatedAt": "2026-08-19T19:25:06.394Z",
+  "version": 17,
+  "updatedAt": "2026-08-21T05:07:38.079Z",
   "collections": [
     {
       "id": "collection_feminina",
@@ -162,6 +162,16 @@
       "image": "assets/catalogo/img-5549-mt0hdyvx.jpg",
       "source": "admin",
       "active": true
+    },
+    {
+      "id": "feminina_brincos_wattson",
+      "name": "Brincos Wattson",
+      "collection": "Feminina",
+      "description": "Brincos de Macramê WATTSON: Sua Presença Merece Destaque\n\nO macramê é muito mais que uma técnica de nós. É arte, é história, é atitude. E nos brincos da WATTSON Acessórios, ele ganha um novo significado: elegância com alma.\n\nOlha só esse modelo da imagem: fios pretos entrelaçados com perfeição, formando desenhos geométricos que chamam atenção sem gritar. Cada nó é feito à mão, com paciência e intenção. O macramê carrega essa essência do feito à mão, do exclusivo, do único. Não existem dois pares exatamente iguais, porque a mão de quem cria sempre coloca um pouquinho de si em cada detalhe.\n\nO que deixa esse brinco ainda mais especial é o pingente em gota de cristal transparente no centro. Ele cria um contraste lindo entre a força do preto e a leveza do brilho. O preto é cor de presença. É cor de quem sabe quem é e não tem medo de mostrar.",
+      "image": "assets/catalogo/1787184382447-no-ai-metadata-mt2hmy8v.jpg",
+      "source": "admin",
+      "active": true,
+      "price": "1500"
     }
   ]
 }
