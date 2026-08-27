@@ -1,6 +1,6 @@
 {
-  "version": 18,
-  "updatedAt": "2026-08-27T17:48:50.353Z",
+  "version": 19,
+  "updatedAt": "2026-08-27T17:50:35.525Z",
   "collections": [
     {
       "id": "collection_feminina",
@@ -178,10 +178,10 @@
       "name": "Brincos Nightclub",
       "collection": "Feminina",
       "description": "✨ Brincos Nightclub — Wattson Acessórios\nElegância que não passa despercebida. Os Brincos Nightclub da Wattson Acessórios foram feitos à mão para mulheres que gostam de marcar presença com sofisticação e personalidade.\nCom design em macramé preto, detalhes dourados e contas em tom vinho, são perfeitos para festas, eventos, jantares e ocasiões especiais — ou para transformar um look simples em uma produção de alto padrão.\n\n🖤 Feito à mão\n✨ Design exclusivo\n💎 Materiais cuidadosamente selecionados\n🎁 Embalagem premium\nPreço: 5.000 Kz o par\n📲 Encomendas: @wswattson01\nWattson Acessórios — Feito à mão. Feito com propósito.",
-      "image": "assets/catalogo/file-00000000491c81f499e8fe127caea254-mtbtgz3c.jpg",
+      "image": "assets/catalogo/file-00000000bc80820a92ce7590aaabb2dc-removed-mtbtj7r8.jpg",
       "source": "admin",
       "active": true,
-      "price": "2500"
+      "price": "5000"
     }
   ]
 }
