@@ -1,6 +1,6 @@
 {
-  "version": 19,
-  "updatedAt": "2026-08-27T17:50:35.525Z",
+  "version": 20,
+  "updatedAt": "2026-08-27T20:35:19.774Z",
   "collections": [
     {
       "id": "collection_feminina",
@@ -182,6 +182,16 @@
       "source": "admin",
       "active": true,
       "price": "5000"
+    },
+    {
+      "id": "personalizados_par_de_pulseiras_com_datas_especiais",
+      "name": "Par de Pulseiras com datas especiais",
+      "collection": "Personalizados",
+      "description": "As datas especiais têm um lugar e é no seu pulso que devem ficar para que sempre se lembrem do dia que tudo ficou melhor",
+      "image": "assets/catalogo/img-20260808-wa0093-mtbzf3hd.jpg",
+      "source": "admin",
+      "active": true,
+      "price": "4000"
     }
   ]
 }
