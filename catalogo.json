@@ -1,6 +1,6 @@
 {
-  "version": 20,
-  "updatedAt": "2026-08-27T20:35:19.774Z",
+  "version": 21,
+  "updatedAt": "2026-08-28T12:28:11.521Z",
   "collections": [
     {
       "id": "collection_feminina",
@@ -192,6 +192,16 @@
       "source": "admin",
       "active": true,
       "price": "4000"
+    },
+    {
+      "id": "personalizados_phonestrap_patroa",
+      "name": "PhoneStrap PATROA",
+      "collection": "Personalizados",
+      "description": "Pequenos detalhes, grandes significados.\nO Phone Strap da Wattson Acessórios combina estilo, personalidade e praticidade em um único acessório. Feito à mão com cuidado, apresenta contas selecionadas, detalhes elegantes e um design pensado para acompanhar o seu dia. Mais do que um acessório para o celular, é uma forma de expressar quem você é e carregar consigo aquilo que tem significado.",
+      "image": "assets/catalogo/file-00000000752881f48f398cf4f0ccf029-removed-mtcxgh1b.jpg",
+      "source": "admin",
+      "active": true,
+      "price": "2500"
     }
   ]
 }
