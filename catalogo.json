@@ -1,6 +1,6 @@
 {
-  "version": 21,
-  "updatedAt": "2026-08-28T12:28:11.521Z",
+  "version": 22,
+  "updatedAt": "2026-08-28T12:43:41.291Z",
   "collections": [
     {
       "id": "collection_feminina",
@@ -202,6 +202,16 @@
       "source": "admin",
       "active": true,
       "price": "2500"
+    },
+    {
+      "id": "feminina_moon_rose",
+      "name": "Moon Rose",
+      "collection": "Feminina",
+      "description": "Moon Rose 🌙🌹 — uma joia que traduz elegância, delicadeza e personalidade. Seu design em macramé preto, combinado com a pedra em tom rosa suave, cria um contraste sofisticado e marcante. Perfeita para quem valoriza detalhes únicos, conforto e um estilo que se destaca em qualquer ocasião. Moon Rose: sua essência, expressa em cada detalhe.",
+      "image": "assets/catalogo/file-00000000aff481f4a393599e79cf7638-mtcy0etb.jpg",
+      "source": "admin",
+      "active": true,
+      "price": "3500"
     }
   ]
 }
