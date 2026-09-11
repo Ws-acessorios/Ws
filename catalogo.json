@@ -1,6 +1,6 @@
 {
-  "version": 22,
-  "updatedAt": "2026-08-28T12:43:41.291Z",
+  "version": 23,
+  "updatedAt": "2026-09-11T03:28:58.917Z",
   "collections": [
     {
       "id": "collection_feminina",
@@ -212,6 +212,16 @@
       "source": "admin",
       "active": true,
       "price": "3500"
+    },
+    {
+      "id": "personalizados_pulseiras_personalizadas",
+      "name": "Pulseiras personalizadas",
+      "collection": "Personalizados",
+      "description": "Pulseiras de macrame, personalizadas com o nome de quem é importante para vc ou mesmo o teu nome.",
+      "image": "assets/catalogo/20260910-165642-mtwecyv8.jpg",
+      "source": "admin",
+      "active": true,
+      "price": "1.099"
     }
   ]
 }
