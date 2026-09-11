@@ -1,6 +1,6 @@
 {
-  "version": 23,
-  "updatedAt": "2026-09-11T03:28:58.917Z",
+  "version": 24,
+  "updatedAt": "2026-09-11T03:32:23.521Z",
   "collections": [
     {
       "id": "collection_feminina",
@@ -222,6 +222,16 @@
       "source": "admin",
       "active": true,
       "price": "1.099"
+    },
+    {
+      "id": "personalizados_zoe_lima",
+      "name": "Zoe Lima",
+      "collection": "Personalizados",
+      "description": "Pulseira Personalizada com o nome da pequena Zoe Lima, um lembrete do amor que o seu pai sente...",
+      "image": "assets/catalogo/file-00000000b76c8210ac3931c115612f96-mtwehc3m.jpg",
+      "source": "admin",
+      "active": true,
+      "price": "2000"
     }
   ]
 }
